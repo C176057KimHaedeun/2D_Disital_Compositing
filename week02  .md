@@ -36,3 +36,4 @@ sRGB의 이미지는 사실 굉장히 밝은 이미지임. 이러한 이미지�
 각 카메라 회사들이 구현하고 있는 컬러스페이스들을 최대한으로 수용하는 컬러스페이스가
  ACES Colorspace.   
  
+ 그러므로 ACES Colorspace = 통합된 colormanagement system. 
